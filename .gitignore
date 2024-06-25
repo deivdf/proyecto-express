@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files
+db.sqlite
+
+# Environment files
+.env
+config.js
+
+# IDE files
+.vscode/
+.idea/
+
+# Coverage files
+coverage
